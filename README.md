@@ -92,6 +92,7 @@ _____________
 - [SquadEdit](https://squadedit.com/)
 - [CodePen](http://codepen.io/)
 - [JSFiddle](http://jsfiddle.net/)
+- [Editr](http://lab.idered.pl/editr/)
 - [Snipt](https://snipt.net/)
 - [Chop](http://chopapp.com/)
 - [Screencast-o-matic](http://www.screencast-o-matic.com/)
@@ -158,6 +159,7 @@ _____________
 - [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [CSS Button Generator](http://www.dextronet.com/css-buttons-generator/)
 - [LoremPixel - placeholder images](http://lorempixel.com/)
+- [Lipsum - placeholder text](http://lipsum.com/)
 - [WordMark](http://wordmark.it/)
 - [LayerStyle](http://layerstyles.org/builder.html)
 - [Border Image Generator](http://border-image.com/)
@@ -361,22 +363,18 @@ _____________
 
 
 
-**Learning/Tutorial/Playgrounds:**
+**Learning (online courses)**
 ===
-- [Treehouse](http://teamtreehouse.com/) (*subscription-based*)
-- [Codeschool](https://www.codeschool.com/) (*subscription-based*)
+
+- [Treehouse](http://teamtreehouse.com/)
+- [Codeschool](https://www.codeschool.com/)
 - [Learnable](https://learnable.com/)
 - [Lynda](http://lynda.com/)
-- [Codecademy - free tutorials](http://www.codecademy.com/learn)
-- [CoDrops - free tutorials](http://tympanus.net/codrops/)
-- [CSS Deck](http://cssdeck.com/)
-- [ZURB Playground](http://zurb.com/playground)
-- [CSS Tricks](http://css-tricks.com/downloads/)
-- [CodePlayer](http://thecodeplayer.com/)
-- [Editr](http://lab.idered.pl/editr/)
+- [Codecademy - free](http://www.codecademy.com/learn)
+- [Skillfeed](https://www.skillfeed.com/) 
+
 - [Give n go](http://give-n-go.co/)
 - [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
-- [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
 - [Code Visually](http://codevisually.com/)
 - [DesignInstruct](http://designinstruct.com/)
 - [Design Principles FTW](http://designprinciplesftw.com/)
@@ -387,9 +385,6 @@ _____________
 - [ZURB Quips](http://zurb.com/quips)
 - [SitePoint](http://www.sitepoint.com/)
 - [Bento](http://www.bento.io/)
-- [Design Tutsplus](http://design.tutsplus.com/) + [Code Tutsplus](http://code.tutsplus.com/)
-- [Pineapple.io - central hub of tutorials](http://pineapple.io/?reset=true)
-- [Skillfeed](https://www.skillfeed.com/#!)
 - [Scotch](http://scotch.io/)
 - [Cody](http://codyhouse.co/)
 - [Gibbon](https://gibbon.co/)
@@ -398,6 +393,29 @@ _____________
 
 _____________
 
+
+
+**Playground:**
+===
+- [ZURB Playground](http://zurb.com/playground)
+- [CoDrops](http://tympanus.net/codrops/)
+- [CSS Deck](http://cssdeck.com/)
+- [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
+
+_____________
+
+
+
+**Tutorials:**
+===
+- [CSS Tricks](http://css-tricks.com/downloads/)
+- [CodePlayer](http://thecodeplayer.com/)
+- [Design Tutsplus](http://design.tutsplus.com/) + [Code Tutsplus](http://code.tutsplus.com/)
+- [Pineapple.io - central hub of tutorials](http://pineapple.io/?reset=true)
+
+
+
+_____________
 
 
 **Favicons:**
