@@ -363,8 +363,8 @@ _____________
 
 **Learning/Tutorial/Playgrounds:**
 ===
-- [Treehouse](http://teamtreehouse.com/)
-- [Codeschool](https://www.codeschool.com/)
+- [Treehouse](http://teamtreehouse.com/)*subscription-based*
+- [Codeschool](https://www.codeschool.com/)*subscription-based*
 - [Learnable](https://learnable.com/)
 - [Lynda](http://lynda.com/)
 - [Codecademy - free tutorials](http://www.codecademy.com/learn)
