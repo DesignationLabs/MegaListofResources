@@ -372,28 +372,13 @@ _____________
 - [Lynda](http://lynda.com/)
 - [Codecademy - free](http://www.codecademy.com/learn)
 - [Skillfeed](https://www.skillfeed.com/) 
-- [ZURB Quips](http://zurb.com/quips)
 - [SitePoint](http://www.sitepoint.com/)
-- [Cody](http://codyhouse.co/)
 - [Gibbon](https://gibbon.co/)
 - [Free Programming Books - huge list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 
 _____________
 
-
-
-**Playground/Inspiration:**
-===
-- [ZURB Playground](http://zurb.com/playground)
-- [CoDrops](http://tympanus.net/codrops/)
-- [CSS Deck](http://cssdeck.com/)
-- [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
-- [Six UX](http://sixux.com/)
-- [Give n go](http://give-n-go.co/)
-- [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
-- 
-_____________
 
 
 
@@ -411,7 +396,23 @@ _____________
 - [Code Visually](http://codevisually.com/)
 - [DesignInstruct](http://designinstruct.com/)
 - [Bento](http://www.bento.io/)
+- [Cody](http://codyhouse.co/)
+- [ZURB Quips](http://zurb.com/quips)
 
+_____________
+
+
+
+**Playground/Inspiration:**
+===
+- [ZURB Playground](http://zurb.com/playground)
+- [CoDrops](http://tympanus.net/codrops/)
+- [CSS Deck](http://cssdeck.com/)
+- [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
+- [Six UX](http://sixux.com/)
+- [Give n go](http://give-n-go.co/)
+- [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
+ 
 _____________
 
 
