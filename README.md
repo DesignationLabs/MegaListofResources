@@ -410,6 +410,11 @@ _____________
 - [CSS Deck](http://cssdeck.com/)
 - [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
 - [Six UX](http://sixux.com/)
+- [UI Parade](http://www.uiparade.com)
+- [media queries](http://mediaqueri.es)
+- [lovely ui (mobile inspiration)](http://www.lovelyui.com)
+- [Awwwards (webdesign showcase)](http://www.awwwards.com)
+- [FWA (interactive showcase)](http://www.thefwa.com)
 - [Give n go](http://give-n-go.co/)
 - [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
  
