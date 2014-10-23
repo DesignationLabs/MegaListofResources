@@ -372,20 +372,8 @@ _____________
 - [Lynda](http://lynda.com/)
 - [Codecademy - free](http://www.codecademy.com/learn)
 - [Skillfeed](https://www.skillfeed.com/) 
-
-- [Give n go](http://give-n-go.co/)
-- [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
-- [Code Visually](http://codevisually.com/)
-- [DesignInstruct](http://designinstruct.com/)
-- [Design Principles FTW](http://designprinciplesftw.com/)
-- [Little Big Details](http://littlebigdetails.com/)
-- [Six UX](http://sixux.com/)
-- [Medium - Design/UX](https://medium.com/design-ux)
-- [Photoshop Secrets](http://photoshopsecrets.tumblr.com/)
 - [ZURB Quips](http://zurb.com/quips)
 - [SitePoint](http://www.sitepoint.com/)
-- [Bento](http://www.bento.io/)
-- [Scotch](http://scotch.io/)
 - [Cody](http://codyhouse.co/)
 - [Gibbon](https://gibbon.co/)
 - [Free Programming Books - huge list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
@@ -395,25 +383,34 @@ _____________
 
 
 
-**Playground:**
+**Playground/Inspiration:**
 ===
 - [ZURB Playground](http://zurb.com/playground)
 - [CoDrops](http://tympanus.net/codrops/)
 - [CSS Deck](http://cssdeck.com/)
 - [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
-
+- [Six UX](http://sixux.com/)
+- [Give n go](http://give-n-go.co/)
+- [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
+- 
 _____________
 
 
 
-**Tutorials:**
+**Tutorials/Articles:**
 ===
 - [CSS Tricks](http://css-tricks.com/downloads/)
 - [CodePlayer](http://thecodeplayer.com/)
 - [Design Tutsplus](http://design.tutsplus.com/) + [Code Tutsplus](http://code.tutsplus.com/)
 - [Pineapple.io - central hub of tutorials](http://pineapple.io/?reset=true)
-
-
+- [Photoshop Secrets](http://photoshopsecrets.tumblr.com/)
+- [Scotch](http://scotch.io/)
+- [Little Big Details](http://littlebigdetails.com/)
+- [Design Principles FTW](http://designprinciplesftw.com/)
+- [Medium - Design/UX](https://medium.com/design-ux)
+- [Code Visually](http://codevisually.com/)
+- [DesignInstruct](http://designinstruct.com/)
+- [Bento](http://www.bento.io/)
 
 _____________
 
