@@ -177,6 +177,7 @@ _____________
 - [UI Faces](http://uifaces.com/)
 - [UI Names](http://uinames.com/)
 - [WhatTheme](http://whattheme.com/)
+- [IE Browser Testing](https://www.modern.ie/en-us)
 - [Article on Front-End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
 
 _____________
