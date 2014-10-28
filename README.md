@@ -239,13 +239,12 @@ _____________
      - [Hammer JS](http://hammerjs.github.io/)
 - Xcode --> [Origami for XCode](http://facebook.github.io/origami/) --> [IDEO's Avocado for Origami](http://ideo.is/avocado_labs)
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html)
-- Adobe Flash
 - Drag-and-drop tools:
+     - [Proto.io](http://proto.io/)     
      - [Flinto](https://www.flinto.com/)
      - [Marvel](http://marvelapp.com/)
      - [InvisionApp](http://inivisionapp.com)
      - [Pop](https://popapp.in/)
-     - [Proto.io](http://proto.io/)
      - [Fluid UI](https://www.fluidui.com/)
 
 
@@ -480,6 +479,8 @@ _____________
 **Resources/Freebies:**
 ===
 - [Designmodo](http://designmodo.com/freebies/)
+- [Sketch App Resources](http://www.sketchappsources.com/)
+- [Konigi Tools](http://konigi.com/tools/)
 - [SmashingMagazine](http://www.smashingmagazine.com/tag/freebies/)
 - [Freebbble - Dribbble design freebies](http://freebbble.com/)
 - [365psd - free PSDs](http://365psd.com/)
