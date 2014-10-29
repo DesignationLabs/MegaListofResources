@@ -27,6 +27,7 @@ _____________
 - [Dribbble - design culture/trends](http://dribbble.com/)
 - [Behance - design culture/trends](https://www.behance.net/)
 - [/r/web_design](http://reddit.com/r/web_design)
+- [Despreneur](http://despreneur.com/about/)
 
 _____________
 
