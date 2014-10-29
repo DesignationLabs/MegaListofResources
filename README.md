@@ -28,7 +28,6 @@ _____________
 - [Behance - design culture/trends](https://www.behance.net/)
 - [/r/web_design](http://reddit.com/r/web_design)
 
-
 _____________
 
 
