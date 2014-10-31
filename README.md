@@ -1,7 +1,7 @@
 MegaListofResources
 ===================
 
-This is a TON of helpful links. We encourage you to play around and explore all of these resources, as everything that's on this list comes highly recommended. If you ever find yourself at a loss for what to do, poke around in here. 
+This is a TON of helpful links for designers and front-end developers. We encourage you to play around and explore all of these resources, as everything that's on this list comes highly recommended. If you ever find yourself at a loss for what to do, poke around in here. 
 
 While not every person will necessarily need all of these resources, it's a great way to discover what you personally like and works for you. Use only what you find useful!
 
