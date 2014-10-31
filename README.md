@@ -27,7 +27,6 @@ _____________
 - [Dribbble - design culture/trends](http://dribbble.com/)
 - [Behance - design culture/trends](https://www.behance.net/)
 - [/r/web_design](http://reddit.com/r/web_design)
-- [Despreneur](http://despreneur.com/about/)
 
 _____________
 
@@ -479,6 +478,7 @@ _____________
 **Resources/Freebies:**
 ===
 - [Designmodo](http://designmodo.com/freebies/)
+- [Despreneur](http://despreneur.com/about/)
 - [Sketch App Resources](http://www.sketchappsources.com/)
 - [Konigi Tools](http://konigi.com/tools/)
 - [SmashingMagazine](http://www.smashingmagazine.com/tag/freebies/)
@@ -486,6 +486,7 @@ _____________
 - [365psd - free PSDs](http://365psd.com/)
 - [Design Freebies](http://www.designfreebies.com/)
 - [Photoshoplr](http://madebyvadim.tumblr.com/)
-- [FreePic](http://www.freepik.com/)
+- [FreePik](http://www.freepik.com/)
+- [Flaticon](http://flaticon.com/)
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Hack Design](https://hackdesign.org/lessons)
