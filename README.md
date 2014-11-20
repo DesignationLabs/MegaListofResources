@@ -314,7 +314,7 @@ _____________
 ===
 - [Logo Lounge](http://logolounge.com/)
 - [Logopond](http://logopond.com/)
-
+- [Brands of the World](www.brandsoftheworld.com)
 
 _____________
 
