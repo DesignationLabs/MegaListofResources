@@ -461,7 +461,7 @@ _____________
 - [Icons Guide](http://www.iconsguide.com/)
 - [Testico](http://testico.net/)
 - [FlatIcons](http://flaticons.net/)
-
+- [Flat Icon](http://www.flaticon.com/)
 
 _____________
 
