@@ -8,7 +8,7 @@ While not every person will necessarily need all of these resources, it's a grea
 __________
 
 *About DESIGNATION:*
-*[DESIGNATION](http://designation.io/) is a full-time, full-immersion, full-stack design bootcamp in Chicago and St. Louis.*
+*[DESIGNATION](http://designation.io/) ([http://designation.io/](http://designation.io/)) is a full-time, full-immersion, full-stack design bootcamp in Chicago and St. Louis.*
 
 *Over 16 weeks, students learn digital design, front-end development and user experience (UX), and build their portfolios by working with live clients on real world projects.*
 
