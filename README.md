@@ -131,7 +131,8 @@ _____________
 - [MixPanel](http://mixpanel.com/)
 - [GoSquared](https://www.gosquared.com/)
 - [Flurry](http://www.flurry.com/)
-
+- [Chartbeat](https://chartbeat.com)
+- [Parsely](http://www.parsely.com/)
 
 _____________
 
