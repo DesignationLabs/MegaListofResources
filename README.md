@@ -82,6 +82,11 @@ _____________
      - [Skeleton](http://www.getskeleton.com/)
      - [Centurion](http://www.centurionframework.com/)
      - [Compare front-end frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+-Javascript Frameworks:
+     - [AngularJS](https://angularjs.org/)
+     - [EmberJS](http://emberjs.com/)
+     - [BatmanJS](http://batmanjs.org/)
+     - [Backbone](http://backbonejs.org/)
 - [Semantic UI - semantics for sharing](http://semantic-ui.com/)
 
 
