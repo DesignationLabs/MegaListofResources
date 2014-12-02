@@ -386,6 +386,8 @@ _____________
 - [Treehouse](http://teamtreehouse.com/)
 - [Codeschool](https://www.codeschool.com/)
 - [Learnable](https://learnable.com/)
+- [Udacity](http://udacity.com/)
+- [Freecodecamp](http://www.freecodecamp.com/)
 - [Lynda](http://lynda.com/)
 - [Codecademy - free](http://www.codecademy.com/learn)
 - [Skillfeed](https://www.skillfeed.com/) 
