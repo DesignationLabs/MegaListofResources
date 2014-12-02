@@ -296,6 +296,7 @@ _____________
 - [Kuler - color wheel](https://kuler.adobe.com/create/color-wheel/)
 - [Colour Lovers - color trends](http://www.colourlovers.com/)
 - [ColorHexa - color encyclopedia](http://www.colorhexa.com/)
+- [BrandColors](http://brandcolors.net/)
 
 _____________
 
@@ -371,6 +372,7 @@ _____________
      - [Mailchimp Email Design Reference](http://templates.mailchimp.com/)
      - [Beautiful Email Newsletters](http://beautiful-email-newsletters.com/)
      - [Brace - Email script when you can't write PHP](http://forms.brace.io/)
+     - [Campaign Monitor - Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
 - HTML forms:
      - [SitePoint article on HTML5 forms markup](http://www.sitepoint.com/html5-forms-markup/)
 
@@ -470,6 +472,8 @@ _____________
 - [Testico](http://testico.net/)
 - [FlatIcons](http://flaticons.net/)
 - [Flat Icon](http://www.flaticon.com/)
+- [Pictos](http://pictos.cc/)
+- [Symbolset](http://symbolset.com/)
 
 _____________
 
@@ -486,6 +490,7 @@ _____________
 - [PicJumbo](http://picjumbo.com/)
 - [Getty Images](http://gettyimages.com/)
 - [Think Stock](http://thinkstockphotos.com)
+- [Death to the Stock Photo](http://deathtothestockphoto.com/)
 
 
 
