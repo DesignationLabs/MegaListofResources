@@ -1,5 +1,5 @@
-MegaListofResources
-===================
+# Mega List o fResources
+
 
 This is a TON of helpful links for designers and front-end developers. We encourage you to play around and explore all of these resources, as everything that's on this list comes highly recommended. If you ever find yourself at a loss for what to do, poke around in here. 
 
@@ -14,34 +14,37 @@ __________
 
 _________
 
-**Search:**
-===
+
+# Search:
+
 - [Google](https://www.google.com/?gws_rd=ssl)
-- [StackOverflow - coding questions](http://stackoverflow.com/)
-- [UX Stack Exchange - UX questions](http://ux.stackexchange.com/)
-- [Graphic Design Stack Exchange - visual design questions](http://graphicdesign.stackexchange.com/)
-- [MDN - Mozilla Developer Network (for good documentation)](https://developer.mozilla.org/en-US/)
-- [Creative Commons - license-free image search](http://search.creativecommons.org/)
+- [StackOverflow](http://stackoverflow.com/) — coding questions
+- [UX Stack Exchange](http://ux.stackexchange.com/) — UX questions
+- [Graphic Design Stack Exchange](http://graphicdesign.stackexchange.com/) — visual design questions
+- [MDN](https://developer.mozilla.org/en-US/) — Mozilla Developer Network (for good documentation)
+- [Creative Commons](http://search.creativecommons.org/) — license-free image search
+
 
 _____________
 
 
-**Online Communities:**
-===
-- [Hacker News - startup culture/news/trends](https://news.ycombinator.com/)
-- [Designer News - design culture/news/trends](https://news.layervault.com/)
-- [Product Hunt - startup culture/news/trends](http://www.producthunt.com/)
-- [Sidebar - design culture/news/trends](http://sidebar.io/)
-- [Dribbble - design culture/trends](http://dribbble.com/)
-- [Behance - design culture/trends](https://www.behance.net/)
+# Online Communities:
+
+- [Hacker News](https://news.ycombinator.com/) — startup culture/news/trends
+- [Designer News](https://news.layervault.com/) — design culture/news/trends
+- [Product Hunt](http://www.producthunt.com/) — startup culture/news/trends
+- [Sidebar](http://sidebar.io/) — design culture/news/trends
+- [Dribbble](http://dribbble.com/) — design culture/trends
+- [Behance](https://www.behance.net/) — design culture/trends
 - [/r/web_design](http://reddit.com/r/web_design)
 
+
 _____________
 
 
-**Interviews:**
-===
-- [Dorm Room Tycoon - Design Interviews](http://drt.fm/)
+# Interviews:
+
+- [Dorm Room Tycoon](http://drt.fm/) — Design Interviews
 - [DESIGNATION Blog](http://designation.io/blog/category/interviews/)
 - [Humble Pied](http://humblepied.com/)
 - [InvisionApp Blog](http://blog.invisionapp.com/)
@@ -50,30 +53,30 @@ _____________
 _____________
 
 
-**Responsiveness:**
-===
+# Responsiveness:
+
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [Responsive PX](http://responsivepx.com/)
-- [Lettering.js - responsive typography](http://letteringjs.com/)
+- [Lettering.js](http://letteringjs.com/) — responsive typography
 - [Fluid images](http://unstoppablerobotninja.com/entry/fluid-images)
 - [Fluid 960 grid](http://designinfluences.com/fluid960gs/)
 - [Gridless](http://thatcoolguy.github.io/gridless-boilerplate/)
 - [PX to EM](http://pxtoem.com/)
 - [Media Queries Patterns Library](http://mediaqueri.es/)
 - [Responsive Web Design, Most Complete Guide](http://www.webdesignshock.com/responsive-web-design/)
-- [This Is Responsive - Patterns Library](http://bradfrost.github.io/this-is-responsive/)
-- [Ink - create responsive interfaces](http://ink.sapo.pt)
+- [This Is Responsive](http://bradfrost.github.io/this-is-responsive/) — Patterns Library
+- [Ink](http://ink.sapo.pt) — create responsive interfaces
 - [Responsinator](http://www.responsinator.com/)
 
 
 _____________
 
 
-**Front-End Development:**
-===
-- Important must-read of things to understand in front-end dev: [css resets, responsive media queries, viewport meta tag, box model, container/columns/rows best practices, clearfix](http://www.adamkaplan.me/grid/)
-- [Code Guide - standards for flexible, durable HTML/CSS](http://mdo.github.io/code-guide/)
-- [How to keep up to date on front-end technologies](http://uptodate.frontendrescue.org/)
+# Front-End Development:
+
+- Important must-read of things to understand in front-end dev: [Front-End Best Practices](http://www.adamkaplan.me/grid/) — css resets, responsive media queries, viewport meta tag, box model, container/columns/rows best practices, clearfix
+- [Code Guide](http://mdo.github.io/code-guide/) — standards for flexible, durable HTML/CSS
+- [Frontendrescue](http://uptodate.frontendrescue.org/) — How to keep up to date on front-end technologies
 - Front-End Frameworks:
      - [HTML5 Boilerplate](http://html5boilerplate.com/)
      - [Blueprint](http://www.blueprintcss.org/)
@@ -89,14 +92,14 @@ _____________
      - [Backbone](http://backbonejs.org/)
      - [SproutCore](http://sproutcore.com/)
      - [YUI](http://yuilibrary.com/)
-- [Semantic UI - semantics for sharing](http://semantic-ui.com/)
+- [Semantic UI](http://semantic-ui.com/) — semantics for sharing
 
 
 _____________
 
 
-**Sharing/Feedback/Publishing:**
-===
+# Sharing/Feedback/Publishing:
+
 - [Scratchpad](http://scratchpad.io/)
 - [Firepad](http://www.firepad.io/)
 - [Snaggy](http://snag.gy/)
@@ -123,16 +126,15 @@ _____________
 - [ShareFest](https://www.sharefest.me/)
 - [Appear](https://appear.in/)
 - [CoderPad](https://coderpad.io/)
-- [Criticue - peer review websites](http://www.criticue.com/)
+- [Criticue](http://www.criticue.com/) — peer review websites
 - [RedPen](https://redpen.io/)
 
 
 _____________
 
 
+# Analytics:
 
-**Analytics:**
-===
 - [Google Analytics](http://analytics.google.com/)
 - [Piwik (open source)](http://piwik.org/)
 - [MixPanel](http://mixpanel.com/)
@@ -141,53 +143,52 @@ _____________
 - [Chartbeat](https://chartbeat.com)
 - [Parsely](http://www.parsely.com/)
 
+
 _____________
 
 
+# Hosting Platforms:
 
-**Hosting Platforms:**
-===
-- [CloudCannon - free static hosting](http://cloudcannon.com/)
-- [Pancake - free static hosting](https://pancake.io/)
-- [Backlift - free static hosting](http://backlift.com/)
-- [Site44 - free static hosting](http://www.site44.com/)
-- [DivShot - free static hosting](http://www.divshot.com/)
-- [Meteor - JavaScript app framework](https://www.meteor.com/)
-- [Firebase - JavaScript app framework](https://www.firebase.com/)
+- [CloudCannon](http://cloudcannon.com/) — free static hosting
+- [Pancake](https://pancake.io/) — free static hosting
+- [Backlift](http://backlift.com/) — free static hosting
+- [Site44](http://www.site44.com/) — free static hosting
+- [DivShot](http://www.divshot.com/) — free static hosting
+- [Meteor](https://www.meteor.com/) — JavaScript app framework
+- [Firebase](https://www.firebase.com/) — JavaScript app framework
 - [Forge](https://getforge.com/)
 
 
 _____________
 
 
+# Front-End Development Tools:
 
-**Front-End Development Tools:**
-===
 - [Huge List of Front-End Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [1434 Best Resources for Designers & Developers](www.agiledesigners.com)
--  [Introduction to CSS3 transitions (article)](http://www.css3.info/preview/css3-transitions/)
-- [Bounce.js - Tool to create CSS3 animations](http://bouncejs.com/)
-- [WOW - CSS3 animation library](http://mynameismatthieu.com/WOW/)
+- [1434 Best Resources for Designers & Developers](http://www.agiledesigners.com/)
+- [Introduction to CSS3 transitions (article)](http://www.css3.info/preview/css3-transitions/)
+- [Bounce.js](http://bouncejs.com/) — Tool to create CSS3 animations
+- [WOW](http://mynameismatthieu.com/WOW/) — CSS3 animation library
 - [CSS Palette](http://www.houghtona.com/cssPalette/index.php)
 - [CSS3 Generator](http://css3generator.com/)
-- [CSS3] (http://css3.mikeplate.com/)
+- [CSS3](http://css3.mikeplate.com/)
 - [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [CSS Button Generator](http://www.dextronet.com/css-buttons-generator/)
-- [LoremPixel - placeholder images](http://lorempixel.com/)
-- [Lipsum - placeholder text](http://lipsum.com/)
+- [LoremPixel](http://lorempixel.com/) — placeholder images
+- [Lipsum](http://lipsum.com/) — placeholder text
 - [WordMark](http://wordmark.it/)
 - [LayerStyle](http://layerstyles.org/builder.html)
 - [Border Image Generator](http://border-image.com/)
-- [iCheck - super customized checkboxes and radio buttons for jQuery](http://fronteed.com/iCheck/)
+- [iCheck](http://fronteed.com/iCheck/) — super customized checkboxes and radio buttons for jQuery
 - [SVGeneration](http://www.svgeneration.com/)
-- [Grumpicon - create fallback PNGs for SVG files](http://grumpicon.com/)
+- [Grumpicon](http://grumpicon.com/) — create fallback PNGs for SVG files
 - [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/index.html#)
-- [Animate CSS - CSS3 library](http://daneden.github.io/animate.css/)
-- [Pure - small, responsive CSS modules](http://purecss.io/)
-- [Tridiv - 3D CSS](http://tridiv.com/)
-- [ToDoMVC - JavaScript resource](http://todomvc.com/)
-- [SuperheroJS - JS library](http://superherojs.com/)
-- [Unheap - jQuery plugins](http://www.unheap.com/)
+- [Animate CSS](http://daneden.github.io/animate.css/) — CSS3 library
+- [Pure](http://purecss.io/) — small, responsive CSS modules
+- [Tridiv](http://tridiv.com/) — 3D CSS
+- [ToDoMVC](http://todomvc.com/) — JavaScript resource
+- [SuperheroJS](http://superherojs.com/) — JS library
+- [Unheap](http://www.unheap.com/) — jQuery plugins
 - [Random User Generator](http://randomuser.me/)
 - [UI Faces](http://uifaces.com/)
 - [UI Names](http://uinames.com/)
@@ -195,16 +196,17 @@ _____________
 - [IE Browser Testing](https://www.modern.ie/en-us)
 - [Article on Front-End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
 
+
 _____________
 
 
-**Patterns & Pattern Libraries:**
-===
-- [Subtle Patterns - visual pattern](http://subtlepatterns.com/)
-- [First Time UX - showcase of new user experiences](http://firsttimeux.tumblr.com/)
+# Patterns & Pattern Libraries:
+
+- [Subtle Patterns](http://subtlepatterns.com/) — visual pattern
+- [First Time UX](http://firsttimeux.tumblr.com/) — showcase of new user experiences
 - [UI Interaction Library](http://useyourinterface.com/)
-- [Subjective-C - innovative iOS interfaces](http://subjc.com/)
-[UI Cloud - largest user interface design database in the world](http://ui-cloud.com/)
+- [Subjective-C](http://subjc.com/) — innovative iOS interfaces
+- [UI Cloud](http://ui-cloud.com/) — largest user interface design database in the world
 - [Android Patterns](http://www.androidpatterns.com/)
 - [Android UI Patterns](http://www.androiduipatterns.com/2012/09/creating-custom-android-styles-easy-way.html)
 - [Android niceties](http://androidniceties.tumblr.com/)
@@ -220,9 +222,8 @@ _____________
 _____________
 
 
+# Native Mobile Design:
 
-**Native Mobile Design:**
-===
 - [Android Design guidelines](https://developer.android.com/design/index.html)
 - [Apple Design guidelines](https://developer.apple.com/resources/)
 - Android tools:
@@ -237,25 +238,26 @@ _____________
 - iOS tools:
      - [iPhone GUI PSD by Teehan Lax](http://www.teehanlax.com/tools/iphone/)
      - [iOS Do's and Don'ts](https://developer.apple.com/design/tips/)
-- [PlaceIt - real-life image templates to insert mobile screens](https://placeit.net/)
+- [PlaceIt](https://placeit.net/) — real-life image templates to insert mobile screens
 
 
 _____________
 
 
+# Prototyping:
 
-**Prototyping:**
-===
 - Web dev (HTML, CSS, JS). JS frameworks:
      - [FramerJS](http://framerjs.com/)
      - [jQuery Mobile](http://jquerymobile.com/)
      - [Codiqa](https://codiqa.com/)
      - [Ratchet](http://goratchet.com/)
      - [Hammer JS](http://hammerjs.github.io/)
-- Xcode --> [Origami for XCode](http://facebook.github.io/origami/) --> [IDEO's Avocado for Origami](http://ideo.is/avocado_labs)
+- Xcode
+     - [Origami for XCode](http://facebook.github.io/origami/)
+     - [IDEO's Avocado for Origami](http://ideo.is/avocado_labs)
 - [Adobe After Effects](http://www.adobe.com/products/aftereffects.html)
 - Drag-and-drop tools:
-     - [Proto.io](http://proto.io/)     
+     - [Proto.io](http://proto.io/)
      - [Flinto](https://www.flinto.com/)
      - [Marvel](http://marvelapp.com/)
      - [InvisionApp](http://inivisionapp.com)
@@ -266,18 +268,18 @@ _____________
 _____________
 
 
-**Typography:**
-===
+# Typography:
+
 - [Choosing the Right Font: A Practical Guide to Typography on the Web](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
-- [Butterick's Practical Typography - best guide online (read 'Summary of key rules')](http://practicaltypography.com/)
-- [Instacalc - EM to PX calculator](http://instacalc.com/16738)
+- [Butterick's Practical Typography](http://practicaltypography.com/) — best guide online (read 'Summary of key rules')
+- [Instacalc](http://instacalc.com/16738) — EM to PX calculator
 - [TypeScale](http://type-scale.com/)
 - [The Elements of Typographic Style Applied to the Web](webtypography.net)
 - [Thinking with Type](http://www.thinkingwithtype.com/)
 - [WhatTheFont](http://www.myfonts.com/WhatTheFont/)
-- [MyFonts - bestsellers (trending fonts)](http://www.myfonts.com/bestsellers/)
-- [Typewolf - font recommendations](http://www.typewolf.com/)
-- [Type Finder - find reputable typefaces](http://www.type-finder.com/)
+- [MyFonts](http://www.myfonts.com/bestsellers/) — bestsellers (trending fonts)
+- [Typewolf](http://www.typewolf.com/) — font recommendations
+- [Type Finder](http://www.type-finder.com/) — find reputable typefaces
 - Online font services:
      - [Typekit](https://typekit.com/)
      - [Cloud Typography](http://www.typography.com/cloud/welcome/)
@@ -288,49 +290,49 @@ _____________
 _____________
 
 
+# Colors:
 
-**Colors:**
-===
 - [Color Template](http://www.rocket-design.fr/color-template/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-- [Kuler - color wheel](https://kuler.adobe.com/create/color-wheel/)
-- [Colour Lovers - color trends](http://www.colourlovers.com/)
-- [ColorHexa - color encyclopedia](http://www.colorhexa.com/)
+- [Kuler](https://kuler.adobe.com/create/color-wheel/) — color wheel
+- [Colour Lovers](http://www.colourlovers.com/) — color trends
+- [ColorHexa](http://www.colorhexa.com/) — color encyclopedia
 - [BrandColors](http://brandcolors.net/)
 
+
 _____________
 
 
-**Branding:**
-===
+# Branding:
+
 - [Style Tiles](http://styletil.es/)
-- [Webstiles - web style tiles](http://webstiles.namanyayg.com/)
+- [Webstiles](http://webstiles.namanyayg.com/) — web style tiles
+
 
 _____________
 
 
-**Images:**
-===
-- [PNG Gauntlet - compress image sizes](http://pnggauntlet.com/)
+# Images:
+
+- [PNG Gauntlet](http://pnggauntlet.com/) — compress image sizes
 - [Pic Resize](http://www.picresize.com/)
 
 
 _____________
 
 
+# Logos:
 
-**Logos:**
-===
 - [Logo Lounge](http://logolounge.com/)
 - [Logopond](http://logopond.com/)
 - [Brands of the World](www.brandsoftheworld.com)
 
+
 _____________
 
 
+# Wireframes:
 
-**Wireframes:**
-===
 - [I <3 wireframes](http://wireframes.tumblr.com/)
 - [Wireframe Showcase](http://www.wireframeshowcase.com/)
 
@@ -338,50 +340,46 @@ _____________
 _____________
 
 
+# References & Cheat Sheets:
 
-**References & Cheat Sheets:**
-===
 - [All API Cheat Sheets](http://overapi.com/)
 - [jQuery Quick API Reference](http://oscarotero.com/jquery/)
 - [Article of 100 Terrific Dev Tools](http://dailytekk.com/2012/09/24/100-terrific-tools-for-coders-developers/)
-- [Learn Layout - simple, visual way to learn HTML/CSS layout design](http://learnlayout.com/)
+- [Learn Layout](http://learnlayout.com/) — simple, visual way to learn HTML/CSS layout design
 
 
 _____________
 
 
+# Validation/Code Cleaner:
 
-**Validation/Code Cleaner:**
-===
 - [HTML Markup Validation (W3) ](http://validator.w3.org/)
 - [HTML Tidy](http://infohound.net/tidy/)
 - [CSS Validation (W3)](http://jigsaw.w3.org/css-validator/#validate_by_upload)
 - [Clean CSS](http://www.cleancss.com/)
 - [CSS Compressor](http://www.cssdrive.com/index.php/main/csscompressor/)
-- [Procssor - organize your CSS](http://tools.maxcdn.com/procssor/)
+- [Procssor](http://tools.maxcdn.com/procssor/) — organize your CSS
 - [JavaScript Compressor](http://javascriptcompressor.com/)
 
 
 _____________
 
 
+# Other HTML/CSS components:
 
-**Other HTML/CSS components:**
-===
 - Email Design:
      - [Mailchimp Email Design Reference](http://templates.mailchimp.com/)
      - [Beautiful Email Newsletters](http://beautiful-email-newsletters.com/)
-     - [Brace - Email script when you can't write PHP](http://forms.brace.io/)
-     - [Campaign Monitor - Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)
+     - [Brace](http://forms.brace.io/) — Email script when you can't write PHP
+     - [Campaign Monitor](https://www.campaignmonitor.com/css/) — Ultimate Guide to CSS
 - HTML forms:
      - [SitePoint article on HTML5 forms markup](http://www.sitepoint.com/html5-forms-markup/)
+
 
 _____________
 
 
-
-**Learning (online courses)**
-===
+# Learning (online courses)
 
 - [Treehouse](http://teamtreehouse.com/)
 - [Codeschool](https://www.codeschool.com/)
@@ -389,45 +387,43 @@ _____________
 - [Udacity](http://udacity.com/)
 - [Freecodecamp](http://www.freecodecamp.com/)
 - [Lynda](http://lynda.com/)
-- [Codecademy - free](http://www.codecademy.com/learn)
+- [Codecademy](http://www.codecademy.com/learn) — free
 - [Skillfeed](https://www.skillfeed.com/) 
 - [SitePoint](http://www.sitepoint.com/)
 - [Gibbon](https://gibbon.co/)
-- [Free Programming Books - huge list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) — huge list
 
 
 _____________
 
 
+# Tutorials/Articles:
 
-
-**Tutorials/Articles:**
-===
 - [CSS Tricks](http://css-tricks.com/downloads/)
 - [CodePlayer](http://thecodeplayer.com/)
 - [Design Tutsplus](http://design.tutsplus.com/) + [Code Tutsplus](http://code.tutsplus.com/)
-- [Pineapple.io - central hub of tutorials](http://pineapple.io/?reset=true)
+- [Pineapple.io](http://pineapple.io/?reset=true) — central hub of tutorials
 - [Photoshop Secrets](http://photoshopsecrets.tumblr.com/)
 - [Scotch](http://scotch.io/)
 - [Little Big Details](http://littlebigdetails.com/)
 - [Design Principles FTW](http://designprinciplesftw.com/)
-- [Medium - Design/UX](https://medium.com/design-ux)
+- [Medium](https://medium.com/design-ux) — Design/UX
 - [Code Visually](http://codevisually.com/)
 - [DesignInstruct](http://designinstruct.com/)
 - [Bento](http://www.bento.io/)
 - [Cody](http://codyhouse.co/)
 - [ZURB Quips](http://zurb.com/quips)
 
+
 _____________
 
 
+# Playground/Inspiration:
 
-**Playground/Inspiration:**
-===
 - [ZURB Playground](http://zurb.com/playground)
 - [CoDrops](http://tympanus.net/codrops/)
 - [CSS Deck](http://cssdeck.com/)
-- [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
+- [UIBox](http://www.uibox.in/) — curated HTML/CSS/JS components library
 - [Six UX](http://sixux.com/)
 - [UI Parade](http://www.uiparade.com)
 - [media queries](http://mediaqueri.es)
@@ -436,20 +432,22 @@ _____________
 - [FWA (interactive showcase)](http://www.thefwa.com)
 - [Give n go](http://give-n-go.co/)
 - [The Expressive Web](http://beta.theexpressiveweb.com/#!/welcome)
- 
+
+
 _____________
 
 
-**Favicons:**
-===
+# Favicons:
+
 - [Favicon Generator](http://realfavicongenerator.net/)
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
+
 _____________
 
 
-**Drag-and-Drop Solutions + Template Generators:**
-===
+# Drag-and-Drop Solutions + Template Generators:
+
 - [WebFlow](https://webflow.com/)
 - [Bricks](http://www.brickseditor.com/)
 - [Easel](https://www.easel.io/)
@@ -459,8 +457,8 @@ _____________
 _____________
 
 
-**Icons:**
-===
+# Icons:
+
 - [IconFinder](https://www.iconfinder.com/)
 - [IconArchive](http://www.iconarchive.com/)
 - [IconMonstr](http://iconmonstr.com/)
@@ -476,13 +474,13 @@ _____________
 - [Flat Icon](http://www.flaticon.com/)
 - [Pictos](http://pictos.cc/)
 - [Symbolset](http://symbolset.com/)
+- [Icons8](https://icons8.com/) — Ower 18,000 free flat icons
+
 
 _____________
 
 
-**Stock Photography:**
-===
-
+# Stock Photography:
 
 - [Unsplash](https://www.unsplash.com/)
 - [Compfight](http://www.compfight.com/)
@@ -495,18 +493,18 @@ _____________
 - [Death to the Stock Photo](http://deathtothestockphoto.com/)
 
 
-
 _____________
 
-**Resources/Freebies:**
-===
+
+# Resources/Freebies:
+
 - [Designmodo](http://designmodo.com/freebies/)
 - [Despreneur](http://despreneur.com/about/)
 - [Sketch App Resources](http://www.sketchappsources.com/)
 - [Konigi Tools](http://konigi.com/tools/)
 - [SmashingMagazine](http://www.smashingmagazine.com/tag/freebies/)
-- [Freebbble - Dribbble design freebies](http://freebbble.com/)
-- [365psd - free PSDs](http://365psd.com/)
+- [Freebbble](http://freebbble.com/) — Dribbble design freebies
+- [365psd](http://365psd.com/) — free PSDs
 - [Design Freebies](http://www.designfreebies.com/)
 - [Photoshoplr](http://madebyvadim.tumblr.com/)
 - [FreePik](http://www.freepik.com/)
