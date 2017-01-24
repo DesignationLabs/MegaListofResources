@@ -305,6 +305,7 @@ _____________
 ===
 - [Style Tiles](http://styletil.es/)
 - [Webstiles - web style tiles](http://webstiles.namanyayg.com/)
+- [Frontify](http://frontify.com/)
 
 _____________
 
