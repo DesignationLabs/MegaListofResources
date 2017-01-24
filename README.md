@@ -5,6 +5,13 @@ This is a TON of helpful links for designers and front-end developers. We encour
 
 While not every person will necessarily need all of these resources, it's a great way to discover what you personally like and works for you. Use only what you find useful!
 
+__________
+
+*About DESIGNATION:*
+*[DESIGNATION](http://designation.io/) ([designation.io/](http://designation.io/)) is a full-time, full-immersion, full-stack design bootcamp in Chicago and St. Louis.*
+
+*Over 16 weeks, students learn digital design, front-end development and user experience (UX), and build their portfolios by working with live clients on real world projects.*
+
 _________
 
 **Search:**
