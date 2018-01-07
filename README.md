@@ -35,6 +35,7 @@ _____________
 - [Dribbble - design culture/trends](http://dribbble.com/)
 - [Behance - design culture/trends](https://www.behance.net/)
 - [/r/web_design](http://reddit.com/r/web_design)
+- [CSS Tricks](https://css-tricks.com)
 
 _____________
 
@@ -144,7 +145,6 @@ _____________
 _____________
 
 
-
 **Hosting Platforms:**
 ===
 - [CloudCannon - free static hosting](http://cloudcannon.com/)
@@ -153,10 +153,9 @@ _____________
 - [Meteor - JavaScript app framework](https://www.meteor.com/)
 - [Firebase - JavaScript app framework](https://www.firebase.com/)
 - [Forge](https://getforge.com/)
-
+- [Netlify](https://www.netlify.com)
 
 _____________
-
 
 
 **Front-End Development Tools:**
@@ -192,6 +191,7 @@ _____________
 - [WhatTheme](http://whattheme.com/)
 - [IE Browser Testing](https://www.modern.ie/en-us)
 - [Article on Front-End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
+- [CSS Reference](http://cssreference.io/)
 
 _____________
 
@@ -202,7 +202,7 @@ _____________
 - [First Time UX - showcase of new user experiences](http://firsttimeux.tumblr.com/)
 - [UI Interaction Library](http://useyourinterface.com/)
 - [Subjective-C - innovative iOS interfaces](http://subjc.com/)
-[UI Cloud - largest user interface design database in the world](http://ui-cloud.com/)
+- [UI Cloud - largest user interface design database in the world](http://ui-cloud.com/)
 - [Android Patterns](http://www.androidpatterns.com/)
 - [Android UI Patterns](http://www.androiduipatterns.com/2012/09/creating-custom-android-styles-easy-way.html)
 - [Android niceties](http://androidniceties.tumblr.com/)
@@ -214,9 +214,7 @@ _____________
 - [Inspired-UI](http://inspired-ui.com/)
 - [Capptivate](http://capptivate.co/)
 
-
 _____________
-
 
 
 **Native Mobile Design:**
@@ -237,9 +235,7 @@ _____________
      - [iOS Do's and Don'ts](https://developer.apple.com/design/tips/)
 - [PlaceIt - real-life image templates to insert mobile screens](https://placeit.net/)
 
-
 _____________
-
 
 
 **Prototyping:**
@@ -260,7 +256,6 @@ _____________
      - [Pop](https://popapp.in/)
      - [Fluid UI](https://www.fluidui.com/)
 
-
 _____________
 
 
@@ -276,15 +271,22 @@ _____________
 - [MyFonts - bestsellers (trending fonts)](http://www.myfonts.com/bestsellers/)
 - [Typewolf - font recommendations](http://www.typewolf.com/)
 - [Type Finder - find reputable typefaces](http://www.type-finder.com/)
+- [Fonts](https://www.fonts.com/)
+- [FontSquirrel](http://www.fontsquirrel.com/)
+- [Font Fling](http://fontfling.com/)
+- [FontFont](https://www.fontfont.com/)
+- [I Love Typography](https://ilovetypography.com/)
+- Font design apps & services:
+     - [Font Ark](http://fontark.net/farkwp/)
+     - [Birdfont](http://birdfont.org/)
+     - [RoboFont](http://doc.robofont.com/)
 - Online font services:
      - [Typekit](https://typekit.com/)
      - [Cloud Typography](http://www.typography.com/cloud/welcome/)
      - [Adobe Web Edge Fonts](https://edgewebfonts.adobe.com/fonts)
      - [Google Fonts (free)](https://www.google.com/fonts)
 
-
 _____________
-
 
 
 **Colors:**
@@ -303,6 +305,7 @@ _____________
 ===
 - [Style Tiles](http://styletil.es/)
 - [Webstiles - web style tiles](http://webstiles.namanyayg.com/)
+- [Frontify](http://frontify.com/)
 
 _____________
 
@@ -311,10 +314,9 @@ _____________
 ===
 - [PNG Gauntlet - compress image sizes](http://pnggauntlet.com/)
 - [Pic Resize](http://www.picresize.com/)
-
+- [JPEG Mini](http://www.jpegmini.com/main/shrink_photo)
 
 _____________
-
 
 
 **Logos:**
@@ -326,15 +328,12 @@ _____________
 _____________
 
 
-
 **Wireframes:**
 ===
 - [I <3 wireframes](http://wireframes.tumblr.com/)
 - [Wireframe Showcase](http://www.wireframeshowcase.com/)
 
-
 _____________
-
 
 
 **References & Cheat Sheets:**
@@ -344,9 +343,7 @@ _____________
 - [Article of 100 Terrific Dev Tools](http://dailytekk.com/2012/09/24/100-terrific-tools-for-coders-developers/)
 - [Learn Layout - simple, visual way to learn HTML/CSS layout design](http://learnlayout.com/)
 
-
 _____________
-
 
 
 **Validation/Code Cleaner:**
@@ -359,9 +356,7 @@ _____________
 - [Procssor - organize your CSS](http://tools.maxcdn.com/procssor/)
 - [JavaScript Compressor](http://javascriptcompressor.com/)
 
-
 _____________
-
 
 
 **Other HTML/CSS components:**
@@ -375,7 +370,6 @@ _____________
      - [SitePoint article on HTML5 forms markup](http://www.sitepoint.com/html5-forms-markup/)
 
 _____________
-
 
 
 **Learning (online courses)**
@@ -393,10 +387,7 @@ _____________
 - [Gibbon](https://gibbon.co/)
 - [Free Programming Books - huge list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
-
 _____________
-
-
 
 
 **Tutorials/Articles:**
@@ -417,7 +408,6 @@ _____________
 - [ZURB Quips](http://zurb.com/quips)
 
 _____________
-
 
 
 **Playground/Inspiration:**
@@ -480,8 +470,6 @@ _____________
 
 **Stock Photography:**
 ===
-
-
 - [Unsplash](https://www.unsplash.com/)
 - [Compfight](http://www.compfight.com/)
 - [Morgue File](http://morguefile.com/)
@@ -491,10 +479,29 @@ _____________
 - [Getty Images](http://gettyimages.com/)
 - [Think Stock](http://thinkstockphotos.com)
 - [Death to the Stock Photo](http://deathtothestockphoto.com/)
-
-
+- [Stokpic](http://www.stokpic.com/)
+- [Streetwill.co](http://streetwill.co/)
+- [Unsplash](https://unsplash.com/)
+- [Pexels](http://www.pexels.com/)
+- [Splitshire](http://www.splitshire.com/)
+- [Stocksnap.io](https://stocksnap.io/)
+- [MMT](http://mmt.li/)
+- [Realistic Shots](http://realisticshots.com/)
+- [ISO Republic](http://isorepublic.com/)
+- [Barn Images](http://barnimages.com/)
 
 _____________
+
+
+**Stock Videography:**
+===
+- [FREE 4K RED Stock Footage](http://mitchmartinez.com/free-4k-red-epic-stock-footage/)
+- [VideoHive](http://videohive.net/)
+- [Stokhub](https://www.stokhub.com/)
+- [Filmsupply](http://www.filmsupply.com/)
+
+_____________
+
 
 **Resources/Freebies:**
 ===
@@ -511,3 +518,4 @@ _____________
 - [Flaticon](http://flaticon.com/)
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Hack Design](https://hackdesign.org/lessons)
+- [Google Developer Link Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
