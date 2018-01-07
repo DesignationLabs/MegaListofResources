@@ -273,6 +273,15 @@ _____________
 - [MyFonts - bestsellers (trending fonts)](http://www.myfonts.com/bestsellers/)
 - [Typewolf - font recommendations](http://www.typewolf.com/)
 - [Type Finder - find reputable typefaces](http://www.type-finder.com/)
+- [Fonts](https://www.fonts.com/)
+- [FontSquirrel](http://www.fontsquirrel.com/)
+- [Font Fling](http://fontfling.com/)
+- [FontFont](https://www.fontfont.com/)
+- [I Love Typography](https://ilovetypography.com/)
+- Font design apps & services:
+     - [Font Ark](http://fontark.net/farkwp/)
+     - [Birdfont](http://birdfont.org/)
+     - [RoboFont](http://doc.robofont.com/)
 - Online font services:
      - [Typekit](https://typekit.com/)
      - [Cloud Typography](http://www.typography.com/cloud/welcome/)
