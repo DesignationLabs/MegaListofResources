@@ -295,7 +295,7 @@ _____________
 - [Colour Lovers - color trends](http://www.colourlovers.com/)
 - [ColorHexa - color encyclopedia](http://www.colorhexa.com/)
 - [BrandColors](http://brandcolors.net/)
-
+- [Branition Colors](https://branition.com/colors)
 _____________
 
 
