@@ -149,9 +149,7 @@ _____________
 ===
 - [CloudCannon - free static hosting](http://cloudcannon.com/)
 - [Pancake - free static hosting](https://pancake.io/)
-- [Backlift - free static hosting](http://backlift.com/)
-- [Site44 - free static hosting](http://www.site44.com/)
-- [DivShot - free static hosting](http://www.divshot.com/)
+- [Site44 - static hosting](http://www.site44.com/)
 - [Meteor - JavaScript app framework](https://www.meteor.com/)
 - [Firebase - JavaScript app framework](https://www.firebase.com/)
 - [Forge](https://getforge.com/)
