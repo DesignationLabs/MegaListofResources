@@ -424,7 +424,7 @@ _____________
 ===
 - [ZURB Playground](http://zurb.com/playground)
 - [CoDrops](http://tympanus.net/codrops/)
-- [CSS Deck](http://cssdeck.com/)
+- [Coddy HTML Playground](https://coddy.tech/playground/html)
 - [UIBox - curated HTML/CSS/JS components library](http://www.uibox.in/)
 - [Six UX](http://sixux.com/)
 - [UI Parade](http://www.uiparade.com)
